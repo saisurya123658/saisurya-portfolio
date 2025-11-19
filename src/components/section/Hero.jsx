@@ -291,7 +291,7 @@ import styled, { keyframes } from "styled-components";
 import { Bio, Bio1 } from "../../Data/Data"; 
 import Typewriter from "typewriter-effect";
 import Profileimage from "../../images/Profileimage.jpg";
-import { Tilt } from "react-tilt";
+import Tilt from "react-parallax-tilt";
 import { motion } from "framer-motion";
 import {
   headContainerAnimation,
